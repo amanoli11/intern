@@ -1,1 +1,1 @@
-# 
+# this is just a simple React JS project. Anyone who has installed React JS can run this file. No external libraries have been used so no need to install anything external. Everything have been done using React JS and CSS only for styling.
